@@ -57,7 +57,7 @@ npm start
 ## 🌐 Deployment
 The application is deployed on **[Vercel]**.
 
-🔗 **Live Demo**: [Deployed App Link](https://your-deployed-app-link.com)
+🔗 **Live Demo**: [Deployed App Link](https://quiz-master-three-lilac.vercel.app)
 
 🔗 **GitHub Repository**: [GitHub Link](https://github.com/SayanDas07/QuizMaster.git)
 
